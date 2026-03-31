@@ -31,7 +31,7 @@ if __name__== "__main__":
     option = ""
 
     
-    while option != "6":
+    while option != "7":
         show_memu()
         option = input("pick up option: ")
 
